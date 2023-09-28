@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Brivia Allan (nickname: Moon)</h1>
+<h1 align="center">Hi There👋, I'm Brivia Allan</h1>
 <h3 align="center">A passionate software engineering student from Kenya</h3>
 
 <img src="resources/happycoding" align="right" width="40%" height="100%" position="absolute">
