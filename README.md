@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Brivia Allan (nickname: Moon)</h1>
 <h3 align="center">A passionate software engineering student from Kenya</h3>
 
-<img src="./resources/5ARn.gif" alt="Happy coding" style="align:right; width:40%; height:100%; position:absolute; top:20px; right:10px;">
+<p align="left"> <a href="https://twitter.com/alxnerd" target="blank"><img src="https://img.shields.io/twitter/follow/alxnerd?logo=twitter&style=for-the-badge" alt="alxnerd" /></a> </p>
 
 - 🌱 I’m currently learning **C, Javascript, CSS, HTML, Shell**
 
