@@ -1,10 +1,9 @@
 <h1 align="center">Hi There👋, I'm Brivia Allan (nickname: Moon)</h1>
 <h3 align="center">A passionate software engineering student from Kenya</h3>
 
-<img src="https://i.gifer.com/5ARn.gif" alt="Happy coding" style="width:100%; height:100%;">
+<img src="https://gifer.com/embed/5ARn" alt="Happy coding" style="width:100%; height:100%;">
 
-<!--<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/5ARn" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>-->
-
+<div style="padding-top:56.250%;position:relative;"><img src="https://gifer.com/embed/5ARn" style='height:100%; width:100%;position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></div>
 <p align="left"> <a href="https://twitter.com/alxnerd" target="blank"><img src="https://img.shields.io/twitter/follow/alxnerd?logo=twitter&style=for-the-badge" alt="alxnerd" /></a> </p>
 
 - 🌱 I’m currently learning **C, Javascript, CSS, HTML, Shell**
