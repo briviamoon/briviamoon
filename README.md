@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/alxnerd" target="blank"><img src="https://img.shields.io/twitter/follow/alxnerd?logo=twitter&style=for-the-badge" alt="alxnerd" /></a> </p>
 
-- 🌱 I’m currently learning **C, Javascript, CSS, HTML, Shell**
+- 🌱 I’m currently learning **C, Javascript, CSS, HTML, Shell, Python**
 
-- 💬 Ask me about **Frontend Web dev, C programming,**
+- 💬 Ask me about **Frontend Web dev, C programming, Python programming**
 
 - 📫 How to reach me **briviamoon@gmail.com**
 
